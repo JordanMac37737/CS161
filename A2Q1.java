@@ -7,7 +7,7 @@ public class A2Q1 {
 	public static void main(String args[]) {
 Scanner in = new Scanner (System.in);
 	
-System.out.println("enter a loating-point number: ");
+System.out.println("enter a floating-point number: ");
 double i = in.nextDouble();
 	
 String abs = "";
